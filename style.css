@@ -373,6 +373,7 @@ a {
   .hero {
     flex-direction: column;
     text-align: center;
+    padding: 0px 10px;
   }
   .hero-text {
     padding-right: 0;
